@@ -1,5 +1,12 @@
 # wine-variety
-## Contents of the Project:-
+# Contents of the Project:-
+#### 1) Model used
+#### 2) Features extracted
+#### 3) Model accuracy in train
+#### 4) Data Visualization
+#### 5) Top 5 actionable insights
+#### 6) Saving the Output in a csv
+#### 7) Licensing
 ## 1) Model used : SVM and Decision Tree (Classification)
 ![Capture4](https://user-images.githubusercontent.com/20925116/81508883-79cff900-9324-11ea-8924-86f8e08f323b.PNG)
 ![Capture5](https://user-images.githubusercontent.com/20925116/81508882-79376280-9324-11ea-9905-378639ba332a.PNG)
@@ -16,10 +23,8 @@
 #### c) By the visualization of data using Decision Tree , we could easily see the "Randomness" or "dissimilities bewteen customers in the same group and other groups as well.
 #### d) We can easily determine the "popularity" of the variety among the customers and the reason for it as well.
 #### e) The most crucial insight is "Increasing the net profit (prices)" depending on the popularity determined earlier and make tactics from buisness point of view.
-## 8)Conversion of variety to its unique counterpart:
-![Capture](https://user-images.githubusercontent.com/20925116/81508395-87d04a80-9321-11ea-8309-f8d7c4779bea.PNG)
 
-## 7) Saving the Output in a csv:
+## 6) Saving the Output in a csv:
 After predicting is saved automatically in the test.csv file under the column name "Predicted Value":
 #### Before running the script: 
 ![Capture1111](https://user-images.githubusercontent.com/20925116/81509751-9c651080-932a-11ea-85da-83bd58254009.png)
@@ -28,6 +33,8 @@ After predicting is saved automatically in the test.csv file under the column na
 #### After running the script:
 ![tempsnip](https://user-images.githubusercontent.com/20925116/81510101-18f8ee80-932d-11ea-9793-1c3b29ba1b7f.png)
 
+## 7)Conversion of variety to its unique counterpart:
+![Capture](https://user-images.githubusercontent.com/20925116/81508395-87d04a80-9321-11ea-8309-f8d7c4779bea.PNG)
 
 
 
