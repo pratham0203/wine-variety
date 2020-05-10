@@ -1,13 +1,25 @@
 # wine-variety
 ## Contents of the Project:-
+####1) Model used : SVM and Decision Tree (Classification)
+####2) Features extracted
+####3) Model Accuracy in Train:(accuracy_score =0.72216,f1_score = 0.6627)
+![Capture6](https://user-images.githubusercontent.com/20925116/81508809-06c68280-9324-11ea-8200-814ef4791a79.PNG)
+![Capture7](https://user-images.githubusercontent.com/20925116/81508806-04642880-9324-11ea-97bc-3d7383080e14.PNG)
 
 ### 1)Sample Vector Machine integrated with Decision Tree (Main Project):
 Here using Classification models that uses a data train.csv to train itself and then classify the vine variety based on important usable features.The variety of the vine can then be predicted using the trained and tested model. After passing the test data the model predicts the output and writes the output in test.csv where each variety has been assigned a unique numerical value:
 
 ![Capture](https://user-images.githubusercontent.com/20925116/81508395-87d04a80-9321-11ea-8309-f8d7c4779bea.PNG)
+
+Further since the dataset required cleaning some features where dropped for convienience.
 The file includes these data for evaluation:
 
-Later on after using sentiment analysis and weighing the relevant words with the ones in popular news a model is created.
+![Capture3](https://user-images.githubusercontent.com/20925116/81508660-0083d680-9323-11ea-8eb0-8277d0b18628.PNG)
+
+
+
+
+Later on after using the SVM and the Classification model is created.
 
 
 
