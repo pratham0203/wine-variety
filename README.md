@@ -1,8 +1,8 @@
 # wine-variety
 ## Contents of the Project:-
-####1) Model used : SVM and Decision Tree (Classification)
-####2) Features extracted
-####3) Model Accuracy in Train:(accuracy_score =0.72216,f1_score = 0.6627)
+###1) Model used : SVM and Decision Tree (Classification)
+###2) Features extracted
+###3) Model Accuracy in Train:(accuracy_score =0.72216,f1_score = 0.6627)
 ![Capture6](https://user-images.githubusercontent.com/20925116/81508809-06c68280-9324-11ea-8200-814ef4791a79.PNG)
 ![Capture7](https://user-images.githubusercontent.com/20925116/81508806-04642880-9324-11ea-97bc-3d7383080e14.PNG)
 
