@@ -1,12 +1,13 @@
 # wine-variety
 # Contents of the Project:-
-#### 1) Model used
-#### 2) Features extracted
-#### 3) Model accuracy in train
-#### 4) Data Visualization
-#### 5) Top 5 actionable insights
-#### 6) Saving the Output in a csv
-#### 7) Licensing
+1) Model used
+2) Features extracted
+3) Model accuracy in train
+4) Data Visualization
+5) Top 5 actionable insights
+6) Saving the Output in a csv
+7) Licensing
+# Elaboration of the contents :-
 ## 1) Model used : SVM and Decision Tree (Classification)
 ![Capture4](https://user-images.githubusercontent.com/20925116/81508883-79cff900-9324-11ea-8924-86f8e08f323b.PNG)
 ![Capture5](https://user-images.githubusercontent.com/20925116/81508882-79376280-9324-11ea-9905-378639ba332a.PNG)
