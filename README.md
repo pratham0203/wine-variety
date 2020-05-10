@@ -11,7 +11,8 @@
 ## 4) Data Visualization(Decision Tree):
 ![VarTree](https://user-images.githubusercontent.com/20925116/81509401-121bad00-9328-11ea-9b50-ee66404d3c27.png)
 ## 5) Top 5 actionable Insights from the Data:
-#### a) <b>Significant factors </b>
+#### a) We can determine the <u>"Significant Factors" or "Dominating Factors" </u> the effect the prediction and thus in a way the mindset of the custumer groups.
+#### b) Using this Classi
 
 
 ## License
