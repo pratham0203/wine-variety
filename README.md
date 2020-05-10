@@ -13,6 +13,7 @@
 Here using Classification models that uses a data train.csv to train itself and then classify the vine variety based on important usable features.The variety of the vine can then be predicted using the trained and tested model. After passing the test data the model predicts the output and writes the output in test.csv where each variety has been assigned a unique numerical value:
 
 ![Capture](https://user-images.githubusercontent.com/20925116/81508395-87d04a80-9321-11ea-8309-f8d7c4779bea.PNG)
+
 Further since the dataset required cleaning some features where dropped for convienience.
 The file includes these data for evaluation:
 
